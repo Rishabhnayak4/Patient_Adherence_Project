@@ -1,1 +1,5 @@
-# Project-1
+# Patient_Adherence_Project
+Predict patient adherence for a pharma client 
+In health care industry non-compliance with medication regimens is a huge problem with socio-economic consequences. Due to non-adherence, pharmacy retailers lose money. More importantly, people get sick and there is healthcare expense. Patients who are on chronic diseases are expected to take their drugs periodically but they do not always follow the prescribed medication as directed. An easy way to measure this is whether they are buying the medicines at the supposed intervals. For example, if a patient bought 90 capsules and he is supposed to have 3 capsules a day, he must come back before 30 days for buying next dose. If they do not come, they are non-adherent.
+
+A leading largest pharmacy retailer has collected  data of patient transactions (fills of their medicines at each month).To improve the medication adherence, the client believes that engaging patients is one of the best ways the client plans to proactively target those members who are at risk. The client needs a model that can account for the risk of non-adherence per patient and predict if the patient is likely to non-adhere.
